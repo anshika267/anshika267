@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshika267
-- 👀 I’m interested in ...java development , kotlin , web development,
-- 🌱 I’m currently learning ...Bachelor's of computer application in artificial intelligence and data science
-- 💞️ I’m looking to collaborate on ...android app development
+- 👀 I’m interested in ...Android App Development
+- 🌱 I’m currently learning ...kotlin
+- 💞️ I’m looking to collaborate on ...open-source Android libraries and health/fitness apps
 - 📫 How to reach me ...email:- anshiagarwal377@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
